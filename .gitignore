@@ -1,0 +1,5 @@
+# ignoring venv
+env/
+
+# ingoring all __pycache__ files
+**/__pycache__/*
